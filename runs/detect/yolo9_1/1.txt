@@ -1,0 +1,31 @@
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|███
+                   all       5000      36335      0.745      0.633      0.699       0.53
+Speed: 0.1ms pre-process, 509.9ms inference, 0.4ms NMS per image at shape (32, 3, 640, 640)
+
+Evaluating pycocotools mAP... saving runs/val/yolov9_c_640_val2/yolov9-c-converted_predictions.json...
+loading annotations into memory...
+Done (t=0.18s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=1.43s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=7.01s).
+Accumulating evaluation results...
+DONE (t=2.63s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.001
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.001
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.001
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.001
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.001
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.001
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.016
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.024
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.026
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.031
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.027
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.042
+Results saved to runs/val/yolov9_c_640_val2

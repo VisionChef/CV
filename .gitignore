@@ -1,0 +1,10 @@
+id="f4x4zn"
+.venv_yolov7/
+.venv_yolov8/
+.venv_yolov9/
+#runs/
+#weights/
+datasets/coco/
+__pycache__/
+*.cache
+.DS_Store

@@ -1,0 +1,5 @@
+               Class      Images      Labels           P           R      mAP@.5  mAP@.5:.95: 100%
+                 all        5000       36335       0.724       0.635       0.691       0.498
+Speed: 635.2/0.5/635.7 ms inference/NMS/total per 640x640 image at batch-size 32
+
+Evaluating pycocotools mAP... saving runs/test/yolov7_640_val5/yolov7_predictions.json...
