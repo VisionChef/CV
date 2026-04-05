@@ -1,0 +1,42 @@
+[
+  {
+    "Code Name": "A260172XX_12784.jpg",
+    "Name": "aehobag",
+    "W": "0.504526748971193",
+    "H": "0.478515625",
+    "File Format": "jpg",
+    "Cat 1": "26",
+    "Cat 2": "01",
+    "Cat 3": "72",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.252674897119342,0.2626953125",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  },
+  {
+    "Code Name": "A260172XX_12784.jpg",
+    "Name": "aehobag",
+    "W": "0.486831275720165",
+    "H": "0.538411458333333",
+    "File Format": "jpg",
+    "Cat 1": "26",
+    "Cat 2": "01",
+    "Cat 3": "72",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.243827160493827,0.730794270833333",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  }
+]

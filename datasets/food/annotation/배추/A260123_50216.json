@@ -1,0 +1,42 @@
+[
+  {
+    "Code Name": "A260123_50216.jpg",
+    "Name": "baechu",
+    "W": "0.402260",
+    "H": "0.576480",
+    "File Format": "jpg",
+    "Cat 1": "26",
+    "Cat 2": "01",
+    "Cat 3": "23",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.393663,0.711760",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  },
+  {
+    "Code Name": "A260123_50216.jpg",
+    "Name": "baechu",
+    "W": "0.449600",
+    "H": "0.608030",
+    "File Format": "jpg",
+    "Cat 1": "26",
+    "Cat 2": "01",
+    "Cat 3": "23",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.705400,0.349445",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Code Name": "A270403XX_11762.jpg",
+    "Name": "sosiji",
+    "W": "0.379231473010064",
+    "H": "0.860082304526749",
+    "File Format": "jpg",
+    "Cat 1": "27",
+    "Cat 2": "04",
+    "Cat 3": "03",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.771043000914913,0.430727023319616",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  },
+  {
+    "Code Name": "A270403XX_11762.jpg",
+    "Name": "sosiji",
+    "W": "0.572735590118939",
+    "H": "0.781893004115226",
+    "File Format": "jpg",
+    "Cat 1": "27",
+    "Cat 2": "04",
+    "Cat 3": "03",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.306953339432754,0.609053497942387",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  }
+]
